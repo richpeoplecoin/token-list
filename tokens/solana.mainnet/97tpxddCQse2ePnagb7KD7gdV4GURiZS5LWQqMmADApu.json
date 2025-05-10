@@ -1,0 +1,16 @@
+{
+    "chainId": 101,
+    "address": "97tpxddCQse2ePnagb7KD7gdV4GURiZS5LWQqMmADApu",
+    "symbol": "RCPL",
+    "name": "Rich People Coin",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/richpeoplecoin/token-list/main/assets/mainnet/97tpxddCQse2ePnagb7KD7gdV4GURiZS5LWQqMmADApu/logo.png",
+    "tags": [
+        "utility-token",
+        "meme-token"
+    ],
+    "extensions": {
+        "website": "https://t.me/richpeoplecoin",
+        "description": "RICH PEOPLE COIN (RCPL) is a next-generation meme token built on the Solana blockchain, designed with a clear vision and mission to create a powerful movement within the crypto space. The token is not just a meme but a symbol of a dream \u2014 a dream to empower individuals and create a new generation of crypto millionaires and billionaires."
+    }
+}
